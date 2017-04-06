@@ -20,6 +20,7 @@
     "file-loader": "^0.9.0",
     "json-loader": "^0.5.4",
     "lance-gg": "^1.0.3",
+    "lance-pro": "https://s3.amazonaws.com/lance-pro/gsk/eb9e2a305b9a1a8e47fbe6ea5cd18670dd826a87c739922e096ac98d388f8a98/lance-pro-0.0.3.tgz",
     "node-sass": "^4.1.1",
     "null-loader": "^0.1.1",
     "query-string": "^4.2.3",
